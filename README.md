@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicoale1987
-- 👀 I’m interested in program and plataforms as Netbeans,bluej,MySQL workbench, Php myadmin, etcetera. 
+- 👀 I’m interested in program and plataforms as Netbeans,bluej,MySQL Workbench, Php Myadmin, etcetera. 
 - 🌱 I’m currently learning ON Java and Rest.
 - 💞️ I’m looking to collaborate on a project.
 - 📫 How to reach me chazarretanicolasalej@yahoo.com.ar
